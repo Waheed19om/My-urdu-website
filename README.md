@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>میری ویب سائٹ</title>
+    <title>میری اردو ویب سائٹ</title>
     <style>
         body {
-            font-family: 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', 'Urdu Typesetting', sans-serif;
+            font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
@@ -73,20 +73,10 @@
             <h2>ہمارے بارے میں</h2>
             <p>یہ ایک نمونہ ویب سائٹ ہے جو اردو زبان میں بنائی گئی ہے۔ آپ اسے اپنی ضروریات کے مطابق تبدیل کر سکتے ہیں۔</p>
         </section>
-        
-        <section>
-            <h2>ہماری خدمات</h2>
-            <ul>
-                <li>ویب ڈیزائن</li>
-                <li>ویب ڈویلپمنٹ</li>
-                <li>سی ای او</li>
-                <li>گرافک ڈیزائن</li>
-            </ul>
-        </section>
     </main>
     
     <footer>
-        <p>© 2023 میری ویب سائٹ۔ تمام حقوق محفوظ ہیں۔</p>
+        <p>© 2024 میری ویب سائٹ۔ تمام حقوق محفوظ ہیں۔</p>
     </footer>
 </body>
 </html>
